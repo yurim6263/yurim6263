@@ -86,6 +86,24 @@
 
 ---
 
+### 4. AI 운영 비서 기반 자동차 부품 절삭가공 라인 운영 관리 플랫폼 (semi-ai)
+**설비·생산 상태를 감시하고 문제 발생 시 근거와 함께 조치 초안을 제안하는 AI 운영 비서 "이브"**
+
+5인 팀 프로젝트로 조장을 맡았습니다.
+
+**팀 프로젝트 당시 담당**
+- 팀 조장: 기획 단계 문서 작성, 팀 회의·일정 관리
+- 같은 seed면 같은 결과가 나오는 가상 공장 데이터 생성기 개발
+- 센서·설비 상태 데이터의 실시간 생성 흐름 구현, 팀의 DB·화면·AI 비서에 데이터 공급
+- 발표 시연 영상용·실시간 최종 시연용 환경 분리
+- 프로젝트 마무리: 설계 문서를 코드 기준으로 최신화, 저작권이 팀에 없는 자료는 팀 합의로 정리
+
+※ 운영 데이터는 실제 공개 문서를 기반으로 재구성한 가상 데이터입니다.
+
+🔗 [GitHub Repository](https://github.com/Ion-Mill/VF-2)
+
+---
+
 ## 🔬 Research
 
 ### AI 기반 실시간 고장 판단 연구
@@ -141,3 +159,4 @@
 - [Bearing RUL Prediction](https://github.com/yurim6263/bearing_rul_prediction)
 - [Five Weathers](https://github.com/yurim6263/UGV_simulation)
 - [JobFlow](https://github.com/yurim6263/jobflow)
+- [semi-ai (AI 운영 비서 MOM 플랫폼, 팀 프로젝트)](https://github.com/Ion-Mill/VF-2)
